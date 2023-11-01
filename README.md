@@ -42,6 +42,10 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-03/assets/
 
 <img width="100%" src="./docs/imgs/architecture_service.png"/>
 
+### 인프라 아키텍처
+
+<img width="100%" src="./docs/imgs/architecture_infra.png"/>
+
 ### 모델 아키텍쳐
 
 <img width="100%" src="./docs/imgs/architecture_model.png"/>
@@ -61,7 +65,7 @@ https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-03/assets/
 - **강찬미**: 데이터 수집, FE 구현, BE 구현, DB 구현
 - **박동연**: 데이터 수집 및 정제, FE 구현, BE 구현
 - **서민석**: 데이터 수집 및 정제, 모델링
-- **이준영**: 데이터 수집, FE 구현, BE 구현, DB 구현
+- **이준영**: 데이터 수집, FE 구현, BE 구현, DB 구현, CI/CD
 - **주혜인**: 데이터 수집 및 정제, 모델링
 
 ## Further Reading
